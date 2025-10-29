@@ -1,0 +1,22 @@
+{
+  "name": "automation-warmup-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octavianChiriches/automation-warmup-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octavianChiriches/automation-warmup-demo/issues"
+  },
+  "homepage": "https://github.com/octavianChiriches/automation-warmup-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
