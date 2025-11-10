@@ -1,6 +1,6 @@
 // valid users; 
 
-export const validUsers = [
+export const USERS = [
     {
         scenario: 'Brazilian male user', 
         name: 'João Silva',
@@ -57,3 +57,8 @@ export const validUsers = [
         hobbies: ['Movies', 'Sports', 'Travel', 'Read books', 'Video Games', 'Board Games']
     }
 ];
+
+export const FORM_MESSAGES = {
+  successTitle: 'Success!',
+  successBody: 'The form has been submitted',
+};
